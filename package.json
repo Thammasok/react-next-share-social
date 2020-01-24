@@ -1,0 +1,29 @@
+{
+  "name": "react-next-share-social",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start:next": "next start",
+    "start": "cross-env NODE_ENV=production node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thammasok/react-next-share-social.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thammasok/react-next-share-social/issues"
+  },
+  "homepage": "https://github.com/Thammasok/react-next-share-social#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}

@@ -5,7 +5,7 @@ function SharePage() {
     <div>
       <Head>
         <meta property="fb:app_id" content="1552358151700561" />
-        <meta property="og:url" content="https://eze-liff.herokuapp.com/share/share" />
+        <meta property="og:url" content="https://share-social.herokuapp.com" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="ยังนำคืน84ไปลงช่องตัวเองเหมือนไม่มีอะไรเกิดขึ้นอีก" />
         <meta property="og:description" content="บกวนทีมรับทราบช่วยฟ้องช่องนั้นทีครับ!!!!! เขาไม่เกรงกลัวอะไรเลยมิหนำซ้ำ" />

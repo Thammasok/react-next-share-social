@@ -20,6 +20,8 @@ function SharePage() {
           content="https://images.pexels.com/photos/3527542/pexels-photo-3527542.jpeg?cs=srgb&dl=pexels-3527542.jpg&fm=jpg" />
       </Head>
       <p>Share</p>
+
+      <img src="https://images.pexels.com/photos/3527542/pexels-photo-3527542.jpeg?cs=srgb&dl=pexels-3527542.jpg&fm=jpg" alt="share" />
     </div>
   )
 }

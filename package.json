@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start:next": "next start",
-    "start": "NODE_ENV=production node server.js"
+    "start": "next start -p $PORT"
   },
   "repository": {
     "type": "git",

@@ -9,9 +9,7 @@ class MyDocument extends Document {
   render() {
     return (
       <Html>
-        <Head>
-          <title>$OG_TITLE</title>
-        </Head>
+        <Head />
         <body>
           <Main />
           <NextScript />

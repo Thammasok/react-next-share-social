@@ -5,7 +5,7 @@ function AboutPage() {
     <div>
       <Head>
         <meta property="fb:app_id" content="1552358151700561" />
-        <meta property="og:url" content="https://share-social.herokuapp.com" />
+        <meta property="og:url" content="http://www.digitalvillage.me:3000/" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Using an official buildpack" />
         <meta property="og:description" content="If Heroku’s auto-detection of buildpacks is not sufficient, or if you need multiple buildpacks " />
